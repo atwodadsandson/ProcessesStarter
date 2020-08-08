@@ -2,9 +2,6 @@
 
 Small program that starts and stops processes 
 
-
-Small program that starts and stops processes 
-
 You need to have folder with your apps in there.
 Apps must have same names.
 "ProcessesStarter" get app name and root folder and find and start it from subcatalogs in quantity as you want.
